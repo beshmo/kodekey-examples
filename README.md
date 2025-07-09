@@ -1,23 +1,23 @@
-# 🚀 KodeKloud KeySpaces Examples
+# 🚀 KodeKey Examples
 
 **One Key, Unlimited AI Possibilities**
 
-Ready-to-use examples demonstrating KodeKloud KeySpaces - the fastest way for developers to start building AI-powered applications.
+Ready-to-use examples demonstrating KodeKloud KodeKey - the fastest way for developers to start building AI-powered applications.
 
-## 🌟 What is KodeKloud KeySpaces?
+## 🌟 What is KodeKloud KodeKey?
 
-KeySpaces is an AI playground that provides instant access to multiple cutting-edge language models through a single API key:
+KodeKey is an AI playground that provides instant access to multiple cutting-edge language models through a single API key:
 
 ✨ **One Key, Multiple Models**: Claude Sonnet 4, GPT-4o, GPT-4.1, Gemini 2.5 Pro, Grok 3, and more  
 🚀 **Zero Setup**: Skip API approvals and billing setups for each provider  
 📚 **Ready-to-Run Examples**: Copy-paste code that works immediately  
 
 ### 🔑 Get Your Free API Key
-**[Generate your KeySpaces API key →](https://learn.kodekloud.com/user/playgrounds/keyspace)**
+**[Generate your KodeKey API key →](https://learn.kodekloud.com/user/playgrounds/keyspace)**
 
 ## ⚠️ Important Disclaimer
 
-**KeySpaces is designed for learning, experimentation, and rapid prototyping only.**
+**KodeKey is designed for learning, experimentation, and rapid prototyping only.**
 
 - ❌ **NOT for production use** - Rate limits are intentionally low
 - ❌ **NOT a replacement** for direct vendor APIs in production
@@ -49,7 +49,7 @@ cd kodekey-chatbot
 pip install -r requirements.txt
 
 # 4. Set your API key
-echo "KEYSPACES_API_KEY=your-api-key-here" > .env
+echo "KodeKey_API_KEY=your-api-key-here" > .env
 
 # 5. Run!
 streamlit run chatbot.py
@@ -83,7 +83,7 @@ from openai import OpenAI
 
 # Works with standard OpenAI client!
 client = OpenAI(
-    api_key="your-keyspaces-api-key",
+    api_key="your-KodeKey-api-key",
     base_url="https://main.kk-ai-keys.kodekloud.com/v1"
 )
 
@@ -116,4 +116,4 @@ We welcome new examples! Each example should:
 
 **Start building AI applications in minutes, not days!**
 
-*KodeKloud KeySpaces: Where AI Development Becomes Effortless*%   
+*KodeKloud KodeKey: Where AI Development Becomes Effortless*%   
