@@ -4,8 +4,6 @@
 
 Ready-to-use examples demonstrating KodeKloud KeySpaces - the fastest way for developers to start building AI-powered applications.
 
-![KeySpaces Examples](https://res.cloudinary.com/dezmljkdo/image/upload/v1752086507/Screenshot_2025-07-09_at_2.40.54_PM_aairko.png)
-
 ## 🌟 What is KodeKloud KeySpaces?
 
 KeySpaces is an AI playground that provides instant access to multiple cutting-edge language models through a single API key:
