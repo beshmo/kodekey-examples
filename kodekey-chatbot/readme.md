@@ -2,7 +2,7 @@
 
 A beautiful, ChatGPT-style chatbot with conversation memory, multiple AI models, and a modern Streamlit interface powered by KodeKey's unified API.
 
-![KodeKey Chatbot Screenshot](https://via.placeholder.com/800x500/667eea/ffffff?text=KodeKey+AI+Chatbot)
+![KodeKey Chatbot Screenshot]([https://via.placeholder.com/800x500/667eea/ffffff?text=KodeKey+AI+Chatbot](https://res.cloudinary.com/dezmljkdo/image/upload/v1752086507/Screenshot_2025-07-09_at_2.40.54_PM_aairko.png))
 
 ## ✨ Features
 
