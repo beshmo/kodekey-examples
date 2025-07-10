@@ -298,10 +298,10 @@ st.markdown("""
 # Constants
 AVAILABLE_MODELS = {
     "Claude Sonnet 4": "anthropic/claude-sonnet-4",
-    "GPT-4o (Latest)": "openai/gpt-4o",
-    "GPT-4o": "openai/gpt-4o",
-    "Gemini 2.0 Pro": "google/gemini-2.0-pro",
-    "Grok 3": "xai/grok-3"
+    "GPT-4o (Nov 2024)": "openai/gpt-4o-2024-11-20",
+    "GPT-4.1": "openai/gpt-4.1",
+    "Gemini 2.5 Pro": "google/gemini-2.5-pro",
+    "Grok 3": "x-ai/grok-3"
 }
 
 PERSONALITIES = {
@@ -774,4 +774,4 @@ def main():
         st.rerun()
 
 if __name__ == "__main__":
-    main()
+    main()% 
